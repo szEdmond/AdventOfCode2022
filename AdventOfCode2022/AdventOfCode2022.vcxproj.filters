@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Day_5_SupplyStacks.cpp">
+    <ClCompile Include="Day_10_Cathode-RayTube.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
